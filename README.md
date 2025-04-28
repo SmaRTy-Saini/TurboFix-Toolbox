@@ -50,7 +50,7 @@ TurboFix Toolbox makes your PC feel new again — fast, safe, and easy!
 
 ## 🔗 Downloads
 
-- 📥 **[Download Free Version (GitHub)](your-github-download-link-here)**  
+- 📥 **[Download Free Version (GitHub)](https://github.com/SmaRTy-Saini/TurboFix-Toolbox)**  
 - 💎 **[Get Full Version (Gumroad)](https://smartysaini.gumroad.com/l/sph)**
 
 ---
