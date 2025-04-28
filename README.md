@@ -15,9 +15,9 @@ TurboFix Toolbox makes your PC feel new again — fast, safe, and easy!
 | Version | Features | Availability |
 |:--------|:---------|:--------------|
 | **Free Version** | Core PC cleaning and optimization tools | 🔗 Available here on GitHub |
-| **Full Version** | Advanced system cleaning, malware scanning, registry repair, startup optimizer, lifetime updates | 
-#
-🔗 [Get it on Gumroad]([https://smartysaini.gumroad.com/l/sph) |
+| **Full Version** | Advanced system cleaning, malware scanning, registry repair, startup optimizer, lifetime updates | 🔗 [Get it on Gumroad]
+
+---
 
 ---
 
